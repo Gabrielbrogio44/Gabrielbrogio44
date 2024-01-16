@@ -3,7 +3,7 @@ GIF e Contador de visita no perfil:
 <div align = "center">
   <img height = "140px" src = "https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" >
   <br><p align="centre"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bkayky-nunes31%7D/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BGabrielBroggio44%7D/count.svg" /></p>
 </div>
 Painel de Commits:
 <!--
