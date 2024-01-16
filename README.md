@@ -44,7 +44,7 @@ Studying in this moment
 <h3 align="center">:phone: <i>CONTACTS</i> :phone:</h2>
  <div>
    <div align="center">
-  <a href = "mailto:kaykynunes357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:broggiogabriel08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/gabriel_broggio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </div>
